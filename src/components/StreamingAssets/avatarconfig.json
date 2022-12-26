@@ -1,0 +1,102 @@
+{
+	"a": {
+		"Download": {
+			"loadansys": 1,
+			"retrycount": 3,
+			"downloadtimeout": 25,
+			"maledefaultaid": "8d732b42-1fc6-4e20-82f9-e093fb7673b21",
+			"femaledefaultaid": "8767cf8f-0ec2-4591-a612-f0eaab3b0fe21"
+		},
+		"AvatarLoad": {
+			"interval": 1,
+			"maxshowavatarcount": 50,
+			"maxpersionalcount": 20,
+			"modelloadansys": 1,
+			"loadanimaton": 1
+		},
+		"UpdateFrame": {
+			"initavatarframe": 10,
+			"checkavatarcountframe": 60
+		}
+	},
+	"i": {
+		"Download": {
+			"loadansys": 1,
+			"retrycount": 3,
+			"downloadtimeout": 25,
+			"maledefaultaid": "8d732b42-1fc6-4e20-82f9-e093fb7673b21",
+			"femaledefaultaid": "8767cf8f-0ec2-4591-a612-f0eaab3b0fe21"
+		},
+		"AvatarLoad": {
+			"interval": 1,
+			"maxshowavatarcount": 50,
+			"maxpersionalcount": 20,
+			"modelloadansys": 1,
+			"loadanimaton": 1
+		},
+		"UpdateFrame": {
+			"initavatarframe": 10,
+			"checkavatarcountframe": 60
+		}
+	},
+	"w": {
+		"Download": {
+			"loadansys": 1,
+			"retrycount": 3,
+			"downloadtimeout": 25,
+			"maledefaultaid": "8d732b42-1fc6-4e20-82f9-e093fb7673b21",
+			"femaledefaultaid": "8767cf8f-0ec2-4591-a612-f0eaab3b0fe21"
+		},
+		"AvatarLoad": {
+			"interval": 1,
+			"maxshowavatarcount": 108,
+			"maxpersionalcount": 50,
+			"modelloadansys": 1,
+			"loadanimaton": 1
+		},
+		"UpdateFrame": {
+			"initavatarframe": 10,
+			"checkavatarcountframe": 60
+		}
+	},
+	"m": {
+		"Download": {
+			"loadansys": 1,
+			"retrycount": 3,
+			"downloadtimeout": 25,
+			"maledefaultaid": "8d732b42-1fc6-4e20-82f9-e093fb7673b21",
+			"femaledefaultaid": "8767cf8f-0ec2-4591-a612-f0eaab3b0fe21"
+		},
+		"AvatarLoad": {
+			"interval": 1,
+			"maxshowavatarcount": 50,
+			"maxpersionalcount": 20,
+			"modelloadansys": 1,
+			"loadanimaton": 1
+		},
+		"UpdateFrame": {
+			"initavatarframe": 10,
+			"checkavatarcountframe": 60
+		}
+	},
+	"b": {
+		"Download": {
+			"loadansys": 1,
+			"retrycount": 3,
+			"downloadtimeout": 25,
+			"maledefaultaid": "8d732b42-1fc6-4e20-82f9-e093fb7673b21",
+			"femaledefaultaid": "8767cf8f-0ec2-4591-a612-f0eaab3b0fe21"
+		},
+		"AvatarLoad": {
+			"interval": 1,
+			"maxshowavatarcount": 50,
+			"maxpersionalcount": 20,
+			"modelloadansys": 1,
+			"loadanimaton": 1
+		},
+		"UpdateFrame": {
+			"initavatarframe": 10,
+			"checkavatarcountframe": 60
+		}
+	}
+}
